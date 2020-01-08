@@ -1,0 +1,9 @@
+# .idea files
+.idea/
+
+# Virtual environment
+venv/
+
+
+# Data files
+data/
